@@ -1,0 +1,14 @@
+org\apache\hadoop\io\nativeio\NativeIO$Windows.class
+io\hadoop\demo\App.class
+org\apache\hadoop\io\nativeio\NativeIO$CachedUid.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows$AccessRight.class
+io\hadoop\demo\WordCount$MyMapper.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CacheManipulator.class
+io\hadoop\demo\WordCount$MyReducer.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$IdCache.class
+org\apache\hadoop\io\nativeio\NativeIO.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$Stat.class
+io\hadoop\demo\WordCount.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$NoMlockCacheManipulator.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CachedName.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX.class
